@@ -1,1 +1,1 @@
-# hyrule-compendium-hub
+# Hyrule Compendium
