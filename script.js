@@ -1,4 +1,5 @@
 const url = "https://botw-compendium.herokuapp.com/api/v3/compendium"
+const regionsUrl = "https://botw-compendium.herokuapp.com/api/v3/regions"
 const search = document.querySelector(".search");
 const container = document.querySelector(".container")
 
