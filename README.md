@@ -18,7 +18,7 @@ Simply enter the name of an item and it will appear on the screen!
 
 <img src="Phonescreenshot.png">
 
-And interesting new skill I learned was how to transform the navigation menu when looking at a smaller screen. With the help of Youtube and MDN, I was able to figure out how to make the navigation menu turn into a "hamburger menu" on a smaller screen.
+An interesting new skill I learned was how to transform the navigation menu when looking at a smaller screen. With the help of YouTube and MDN, I was able to figure out how to make the navigation menu turn into a "hamburger menu" on a smaller screen.
 
 Below is the HTML, CSS, and Javascript used to achieve this:
 
