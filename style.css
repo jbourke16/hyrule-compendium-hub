@@ -150,8 +150,12 @@ button {
     }
 
     .descrip {
-        padding-top: 145px;
-        font-size: 17px;
+        padding-top: 127px;
+        font-size: 15px;
+    }
+
+    .search {
+        padding: 15px 0 10px 0;
     }
 
     .nav_hamburger {
@@ -206,7 +210,7 @@ button {
     }
     
     .center {
-        height: 420px;
+        height: 415px;
         width: 410px;
         display: flex;
         justify-content: center;
@@ -235,8 +239,8 @@ button {
     }
     
     .name_image {
-        width: 320x;
-        height: 195px;
+        width: 310x;
+        height: 190px;
         margin-top: 7px;
     }
 }
