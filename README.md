@@ -6,7 +6,7 @@
 
 The Hryule Compendium is a comprehensive database containing materials, monsters, equipment, images, and locations from <em>Zelda: Breath of the Wild</em>.
 
-I pulls from the <a href="https://botw-compendium.herokuapp.com/api">Hyrule Compendium API</a>.
+This site pulls from the <a href="https://botw-compendium.herokuapp.com/api">Hyrule Compendium API</a>.
 
 ## Directions
 
@@ -15,6 +15,8 @@ Simply enter the name of an item and it will appear on the screen!
 <strong>Note</strong>: <em>Zelda: Tears of the Kingdom</em> items are not available yet within the API; it's a WIP! Be sure to enter an item from BOTW.
 
 ## Behind the Screens (Get it?)
+
+<img src="Phonescreenshot.png">
 
 And interesting new skill I learned was how to transform the navigation menu when looking at a smaller screen. With the help of Youtube and MDN, I was able to figure out how to make the navigation menu turn into a "hamburger menu" on a smaller screen.
 
